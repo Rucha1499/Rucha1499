@@ -1,12 +1,12 @@
 ## Hi there, I am Rucha Patil 👋
 
-I am a third year engineering student. I enjoy web developemnt and problem solving!
+I am a third year engineering student. I enjoy web developemnt and problem solving!❤️
 ### My Tech Stack 💻
 - **Frontend**: React.js, Next.js
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoD
 
-### Open Source Contribution:
+### Open Source Contribution
 I'm an active contributor at [Real Dev Squad](https://github.com/Real-Dev-Squad). Check out my contributions [here](https://members.realdevsquad.com/rucha).
 
 ### Noteworthy Contributions
@@ -19,7 +19,7 @@ I'm an active contributor at [Real Dev Squad](https://github.com/Real-Dev-Squad)
 
 ![Rucha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rucha1499&&hide=stars&show_icons=true)
 
-### Contact me here
+### Contact me here 📫
 - [LinkedIn](https://www.linkedin.com/in/rucha14/)
 - [Twitter](https://twitter.com/Rucha1499)
 
