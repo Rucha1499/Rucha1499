@@ -4,7 +4,7 @@ I am a third year engineering student. I enjoy web developemnt and problem solvi
 ### My Tech Stack 💻
 - **Frontend**: React.js, Next.js
 - **Backend**: Node.js, Express.js
-- **Databases**: Firestore, MongoD
+- **Databases**: Firestore, MongoDB
 
 ### Open Source Contribution
 I'm an active contributor at [Real Dev Squad](https://github.com/Real-Dev-Squad). Check out my contributions [here](https://members.realdevsquad.com/rucha).
