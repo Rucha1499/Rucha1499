@@ -1,6 +1,6 @@
 ## Hi there, I am Rucha Patil 👋
 
-I am a third year engineering student. I enjoy web developemnt and problem solving!❤️
+I am a third year engineering student. I enjoy web development and problem solving!❤️
 ### My Tech Stack 💻
 - **Frontend**: React.js, Next.js
 - **Backend**: Node.js, Express.js
