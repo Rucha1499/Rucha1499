@@ -1,6 +1,6 @@
 ## Hi there, I am Rucha Patil 👋
 
-I am a third year engineering student. I enjoy web development and problem solving!❤️
+I am a fourth year engineering student. I enjoy web development and problem solving!❤️
 
 I am currently working as a software development intern at Stockal.
 
