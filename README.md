@@ -2,7 +2,7 @@
 
 I am a fourth year engineering student. I enjoy web development and problem solving!❤️
 
-I am currently working as a software development intern at Stockal.
+I am currently working as a Software Development Engineer at Stockal.
 
 ### My Tech Stack 💻
 - **Frontend**: React.js, Next.js
