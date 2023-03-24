@@ -5,7 +5,7 @@ I enjoy web development and problem solving!❤️
 I am currently working as a Software Development Engineer at Stockal.
 
 ### My Tech Stack 💻
-- **Frontend**: React.js, Next.js
+- **Frontend**: React.js, Next.js, Redux, Socket.io, HTML, CSS, Tailwind
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
 
