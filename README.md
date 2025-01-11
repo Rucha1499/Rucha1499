@@ -2,7 +2,7 @@
 
 I enjoy web development and problem solving!❤️
 
-I am currently working as a Software Development Engineer at Stockal.
+I am currently working as a Software Development Engineer at Leucine.
 
 ### My Tech Stack 💻
 - **Frontend**: React.js, Next.js, Redux, Socket.io, HTML, CSS, Tailwind
